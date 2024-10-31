@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="design.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+    <div class="card">
+        <div class="profile-image-container">
+            <img src="Seth.jpg" alt="Profile Picture" class="profile-image">
+            
+        </div>
+        <h2 class="profile-name">Vuthy Chanpiseth</h2>
+        <p class="profile-title"> Official Account</p>
+        <div class="profile-stats">
+            <div>
+              <p>Projects</p>
+              <h3>50</h3>
+            </div>
+            <div>
+              <p>Following</p>
+              <h3>0</h3>
+            </div>
+            <div>
+              <p>Followers</p>
+              <h3>100K</h3>
+            </div>
+          </div>
+        <p class="Bio"> A sophomore student at CADT majoring in Computer Science and Specializing in Data Science.</p>
+        <div class="social-media-icons">
+            <i class="fa-brands fa-x-twitter"></i>
+            <i class="fa-brands fa-youtube"></i>
+            <i class="fa-brands fa-instagram"></i>
+            <i class="fa-brands fa-facebook"></i>
+        </div>
+        <button class="profile-button">Message</button>
+    </div>
+</body>
+</html>
